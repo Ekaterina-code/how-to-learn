@@ -53,7 +53,7 @@
 }
 
 .header__subtitle {
-   z-index: 2;
+  z-index: 2;
   margin: 0;
   padding: 0;
   width: 388px;
@@ -63,7 +63,6 @@
   line-height: 25px;
   font-size: 18px;
   font-weight: bold;
-  z-index: 2;
 }
 
 .header__main-illustration {
