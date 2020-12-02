@@ -175,14 +175,7 @@
 
 .table__cell {
   padding-top: 60px;
-}
-
-.table__cell_width_m  {
   width: 250px;
-}
-
-.table__cell_width_s {
-  width: 200px; 
 }
 
 .table__heading {
@@ -270,11 +263,13 @@
 
 .section-title_theme_dark {
   color: white;
+  z-index: 2;
 }
 
 .section-subtitle_theme_dark {
   padding: 20px 0 0;
   color: white;
+  z-index: 2;
 }
 
 .table_theme_dark {
@@ -285,6 +280,7 @@
 .table__cell_theme_dark {
   padding-top: 80px;
   color: white;
+  width: 200px; 
 }
 
 .table__heading_theme_dark {
@@ -315,6 +311,7 @@
   min-height: 350px;
   display: flex;
   flex-direction: column;
+  box-sizing: border-box;
 }
 
 .footer__columns {
@@ -369,6 +366,8 @@
   padding: 20px 0 16px;
   display: flex;
   flex-direction: column;
+  list-style-type: none;
+  margin: 0;
 }
 
 .footer__column-link {
