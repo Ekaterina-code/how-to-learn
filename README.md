@@ -4,7 +4,7 @@
 Одностраничный сайт рассказывает о современных подходах к обучению. 
 В доработанной версии проекта добавлены новые блоки с текстом, анимацией и видео. 
 
-https://ekaterina-code.github.io/how-to-lean/index.html
+https://ekaterina-code.github.io/how-to-learn/index.html
 
 **Технологии:** HTML, CSS.
 
